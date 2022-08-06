@@ -1,0 +1,20 @@
+body
+{
+    background-color: #FFF9CA;
+}
+h1
+{
+    color: #2C3333;
+}
+h3
+{
+    color: #2C3333;
+}
+p{
+  color: #2C3333;
+}
+hr
+{
+    width: 200%;     height: 2px;  border-style: dotted;
+    background-color: black;
+}
